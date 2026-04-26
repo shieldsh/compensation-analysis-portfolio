@@ -8,6 +8,7 @@ Data-driven healthcare professional transitioning into data analytics. This port
 
 Analyzed provider pay relative to productivity using RVU benchmarking.
 [View Project](./Compensation-Analyst-Project.xlsx)
+[View Dashboard] (./Compensation-Analyst-Dashboard.png)
 
 
 
@@ -15,6 +16,7 @@ Analyzed provider pay relative to productivity using RVU benchmarking.
 
 Identified scheduling patterns impacting attendance and clinic efficiency.
 [View Project](./Productivity-and-No-Show-Project.xlsx)
+[View Dashboard] (./Productivity-and-No-Show-Dashboard.png)
 
 
 ## **Skills**
