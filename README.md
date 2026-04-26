@@ -25,5 +25,7 @@ Identified scheduling patterns impacting attendance and clinic efficiency.
 
 ## **Skills**
 Excel (PivotTables, XLOOKUP, dashboards)
+
 Data Cleaning & Analysis
+
 Business Insights & Reporting
