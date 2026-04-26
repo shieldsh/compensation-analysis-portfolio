@@ -8,12 +8,15 @@ Projects
 
 Analyzed provider pay relative to productivity using RVU benchmarking.
 [View Project](./Compensation-Analyst-Project)
+[Go to Documentation](docs/setup.md)
+
 
 
 📈 No-Show & Productivity Analysis
 
 Identified scheduling patterns impacting attendance and clinic efficiency.
 [View Project](./Productivity-and-No-Show-Project)
+[Go to Documentation](docs/setup.md)
 
 
 Skills
