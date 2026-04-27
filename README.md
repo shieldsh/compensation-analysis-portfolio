@@ -4,7 +4,7 @@
 Data-driven healthcare professional transitioning into data analytics. This portfolio showcases projects focused on healthcare operations, productivity, and compensation analysis using Excel.
 
 ## **Projects**
-📊 Provider Compensation Analysis
+### *📊 Provider Compensation Analysis*
 
 Analyzed provider pay relative to productivity using RVU benchmarking.
 
@@ -14,7 +14,7 @@ Analyzed provider pay relative to productivity using RVU benchmarking.
 
 
 
-## **📈 No-Show & Productivity Analysis**
+### **📈 No-Show & Productivity Analysis**
 
 Identified scheduling patterns impacting attendance and clinic efficiency.
 
