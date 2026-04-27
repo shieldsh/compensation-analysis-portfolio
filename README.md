@@ -24,8 +24,13 @@ Identified scheduling patterns impacting attendance and clinic efficiency.
 
 
 ## **Skills**
-Excel (PivotTables, XLOOKUP, dashboards)
+Excel (Pivot Tables, XLOOKUP, INDEX/MATCH, dashboards, data modeling)
 
-Data Cleaning & Analysis
+Data Analysis (variance analysis, trend analysis, forecasting, KPI reporting)
 
-Business Insights & Reporting
+Compensation & Healthcare Metrics (RVUs, comp-per-RVU, productivity, CPT coding)
+
+Data Management (data cleaning, validation, reporting)
+
+SQL (in progress)
+
