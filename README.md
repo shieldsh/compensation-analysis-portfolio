@@ -18,7 +18,7 @@ Analyzed provider pay relative to productivity using RVU benchmarking.
 
 Identified scheduling patterns impacting attendance and clinic efficiency.
 
-[View Project](./Productivity and No Show Project.xlsx)
+[View Project](https://github.com/shieldsh/compensation-analysis-portfolio/blob/main/Productivity%20and%20No%20Show%20Project.xlsx)
 
 [View Dashboard](./Productivity-and-No-Show-Dashboard.png)
 
