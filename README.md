@@ -32,5 +32,5 @@ Compensation & Healthcare Metrics (RVUs, comp-per-RVU, productivity, CPT coding)
 
 Data Management (data cleaning, validation, reporting)
 
-SQL (in progress)
+SQL
 
